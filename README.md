@@ -1,9 +1,5 @@
 # CapCut-Pro-Studio-Suite
 
-<p align="center">
-  <img width="1983" height="793" alt="banner" src="https://github.com/YOUR_USERNAME/CapCut-Pro-Studio-Suite/blob/main/docs/banner.png" />
-</p>
-
 <h1 align="center">CapCut-Pro-Studio-Suite</h1>
 <p align="center">
   <strong>The Complete Studio Suite for CapCut Pro — Premium Unlocked, No Watermark, 4K Export</strong><br>
